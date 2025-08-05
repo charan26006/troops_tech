@@ -7,9 +7,9 @@ This assistant:
 - Summarizes content
 - Supports multi-turn conversations
 
-✅ Built for a 24-hour Hackathon in August 2025.
 
----
+
+
 
 ## 🚀 Setup Instructions
 
